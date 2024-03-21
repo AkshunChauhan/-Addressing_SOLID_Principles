@@ -5,7 +5,6 @@ package com.example.demo.Violated.LSP;
 
 public class Main {
     public static void main(String[] args) {
-        // Example usage of the classes
 
         // Creating instances of different vehicles
         Car car = new Car();

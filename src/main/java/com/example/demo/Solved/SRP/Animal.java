@@ -33,6 +33,6 @@ public class Animal {
     // Method to simulate the aging process of the animal
     public void growOlder() {
         age++; // Increase the age by 1
-        System.out.println(species + " grows older."); // Print a message indicating the animal has grown older
+        System.out.println(species + " grows older."); // Print a message
     }
 }
