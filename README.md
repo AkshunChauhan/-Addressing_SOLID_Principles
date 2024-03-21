@@ -1,3 +1,11 @@
+
+<div style="text-align:center">
+
+# SOLID Principles
+</div>
+
+## Project Overview:
+This project aims to address violations of the SOLID principles in a software codebase. The SOLID principles are fundamental concepts in object-oriented design, focusing on building robust, maintainable, and scalable software systems. In this project, we'll discuss violations of three out of the five SOLID principles and propose solutions to rectify them.
 # Liskov Substitution Principle (LSP)  Violation and Solution
 
 
